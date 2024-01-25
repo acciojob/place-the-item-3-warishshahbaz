@@ -1,5 +1,7 @@
 .holder{
 	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
 }
 .item{
 	width:100px;
